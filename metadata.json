@@ -1,0 +1,5 @@
+{
+  "name": "Clay Clone - AI Sales Assistant",
+  "description": "A high-fidelity clone of the Clay interface featuring a Gemini-powered 'Claygent' for intelligent lead enrichment and sales research.",
+  "requestFramePermissions": []
+}
